@@ -77,3 +77,12 @@ ________________________________________
 5.	Student asks AI Tutor: “Explain photosynthesis simply.”
 6.	Teacher sees analytics: “70% of students failed question 5 → revisit chlorophyll.”
 
+________________________________________
+7. Initial accounts
+   Role    Email                      Password
+. Admin    admin@learnhub.com         admin123
+. Teacher  teacher@learnhub.com       teacher123
+. Student  student@learnhub.com       student123
+
+
+
