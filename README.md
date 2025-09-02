@@ -81,7 +81,9 @@ ________________________________________
 7. Initial accounts
    Role    Email                      Password
 . Admin    admin@learnhub.com         admin123
+
 . Teacher  teacher@learnhub.com       teacher123
+
 . Student  student@learnhub.com       student123
 
 
